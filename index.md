@@ -20,16 +20,16 @@
 
 * in the terminal page, we can simply input ssh (Host) to log in the remote server. Then, we could use scp to upload the files.
 
-![image]()  
+![image](8.PNG)  
 
 ## 2. Set up Github Access
 * the new ssh key in Github website
 
-![image]()
+![image](5.PNG)
 
 * the private ssh key in my own computer
 
-![image]()
+![image](6.PNG)
 
 * running git commands to commit and change to github while log into the ieng6 server
 
