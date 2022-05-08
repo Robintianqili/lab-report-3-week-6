@@ -4,7 +4,7 @@
 
 * firstly, find the .ssh file in the desktop
 
-![image]()
+![image](6.PNG)
 
 * create or find the file "config", and then write lines below:
 
@@ -16,10 +16,35 @@
 
 *in this case, the alias is ieng6, HostName and User will indicate the remote server of the .ssh*
 
-![image]()
+![image](7.PNG)
 
 * in the terminal page, we can simply input ssh (Host) to log in the remote server. Then, we could use scp to upload the files.
 
-![image]()
+![image]()  
 
 ## 2. Set up Github Access
+* the new ssh key in Github website
+
+![image]()
+
+* the private ssh key in my own computer
+
+![image]()
+
+* running git commands to commit and change to github while log into the ieng6 server
+
+![image]()
+
+## 3. copy whole directory by using scp recursively
+
+*  copying your whole markdown-parse directory to your ieng6 account.
+
+![image]()
+
+*  logging into your ieng6 account after doing this and compiling and running the tests for your repository.
+
+![image]()
+
+* combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
+
+![image]()
