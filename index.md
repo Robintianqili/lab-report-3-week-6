@@ -33,7 +33,7 @@
 
 * running git commands to commit and change to github while log into the ieng6 server
 
-![image]()
+![image](10.PNG)
 
 ## 3. copy whole directory by using scp recursively
 
@@ -43,7 +43,7 @@
 
 *  logging into your ieng6 account after doing this and compiling and running the tests for your repository.
 
-![image]()
+![image](99.png)
 
 * combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
 
