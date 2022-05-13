@@ -19,7 +19,7 @@
 ![image](7.PNG)
 
 * in the terminal page, we can simply input ssh (Host) to log in the remote server. Then, we could use scp to upload the files.
-
+![image](13.PNG)
 ![image](8.PNG)  
 
 ## 2. Set up Github Access
